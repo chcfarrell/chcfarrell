@@ -1,5 +1,5 @@
 ## Cris Farrell
-![otter]otter.jpg
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/crisfarrell/ASU%20-%20schoolwork/Spring%202026%20A/git215/m1/GitHub/chcfarrell/otter.jpg?version%3D1768707547680).jpg
 
 <!--
 **chcfarrell/chcfarrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
