@@ -1,6 +1,8 @@
 ## Cris Farrell
-![alt text](otter.png)
 
+![alt text](otter.png)
+> Student
+>> Otter enthusiast
 <!--
 **chcfarrell/chcfarrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
