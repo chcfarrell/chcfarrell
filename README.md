@@ -1,4 +1,5 @@
-## Hi there 👋
+## Cris Farrell
+![otter]otter.jpg
 
 <!--
 **chcfarrell/chcfarrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
