@@ -3,7 +3,7 @@
 > Student
 >> Otter enthusiast
 
-Currently in school for web development. Moonlights as a barista. 
+Currently in school for web development. Moonlighting as a barista. 
 
 ![alt text](otter.png)
 
